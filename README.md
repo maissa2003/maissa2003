@@ -106,9 +106,9 @@ I'm continuously improving my skills in:
 
 I'm open to internship opportunities, technical collaborations, and projects that allow me to learn and contribute.
 
-- 💼 **LinkedIn:** [www.linkedin.com/in/klibi-mayssa-4bb924282]
+- 💼 **LinkedIn:** www.linkedin.com/in/klibi-mayssa-4bb924282
 - 🌐 **Portfolio:** [Visit my portfolio](https://maissa2003.github.io/)
-- 📧 **Email:** [mayssaklibi56@gmail.com]
+- 📧 **Email:** mayssaklibi56@gmail.com
 - 💻 **GitHub:** [@maissa2003](https://github.com/maissa2003)
 
 <p align="center">
